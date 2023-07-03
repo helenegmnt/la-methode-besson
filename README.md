@@ -8,7 +8,7 @@ Langage : PHP
 
 ## Avant propos
 
-Pour comprendre le but de cet exercice, voir cette vidéo de Mozinor : [https://youtu.be/GJ1ySirkOAE](https://youtu.be/GJ1ySirkOAE)
+Référence à la vidéo de Mozinor : [https://youtu.be/GJ1ySirkOAE](https://youtu.be/GJ1ySirkOAE)
 
 
 ## Consigne
