@@ -1,7 +1,9 @@
 # La Méthode Besson
 
 Ecole : La Passerelle
+
 Formateur : Jean-Serge Quétier
+
 Langage : PHP
 
 ## Avant propos
