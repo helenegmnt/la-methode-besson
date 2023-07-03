@@ -1,17 +1,14 @@
 # La Méthode Besson
 
-Sélection: La Passerelle
-Étiquettes: Algortihmique, PHP, Terminal
-
-# La Méthode Besson
-
-Ce projet consiste en la création d'un générateur de scénario pour Mr Besson. Un scénario se compose toujours des quatre éléments suivants: 'qui', 'quoi', 'aqui' et 'ou'. Le but de cet exercice est d'écrire un programme qui crée 4 tableaux 'qui', 'quoi', 'aqui' et 'ou' qui contiennent chacun les listes de tous les mots disponibles pour générer un scénario.
+Ecole : La Passerelle
+Langage : PHP
 
 ## Avant propos
 
 Pour comprendre le but de cet exercice, voir cette vidéo de Mozinor : [https://youtu.be/GJ1ySirkOAE](https://youtu.be/GJ1ySirkOAE)
 
-## La méthode Besson
+
+# Consigne
 
 Le but est de créer un générateur de scénario pour Luc Besson. 
 
@@ -137,7 +134,7 @@ do {
     $randWhom = rand(0, count($whom)-1);
     $randWhere = rand(0, count($where)-1);
 
-    //la phrase appelée dans le scénario
+    // la phrase appelée dans le scénario
     $scenario = $who[$randWho] . ' ' . $what[$randWhat] . ' ' . $whom[$randWhom] . ' ' . $where[$randWhere] . EOL;
 
     echo EOL;
